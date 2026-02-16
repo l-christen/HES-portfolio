@@ -5,16 +5,20 @@ project:
 website:
   title: "HES-portfolio"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/anouillz/HES-portfolio # link to repo
+        aria-label: GitHub
+
+  repo-url: https://github.com/anouillz/HES-portfolio
+  repo-actions: [issue]
 
 format:
   html:
+    # light / dark theme
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
 

@@ -7,6 +7,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "articles/week1-task1.html",
+    "href": "articles/week1-task1.html",
+    "title": "Task1 - testing sensor",
+    "section": "",
+    "text": "test"
+  },
+  {
     "objectID": "articles/week1-setup.html",
     "href": "articles/week1-setup.html",
     "title": "Setting up the Environment",
@@ -14,10 +21,24 @@
     "text": "Set up"
   },
   {
+    "objectID": "articles/week2-task2.html",
+    "href": "articles/week2-task2.html",
+    "title": "Sensors data",
+    "section": "",
+    "text": "Sensors are connected via bluetooth"
+  },
+  {
+    "objectID": "articles/week2-tryout.html",
+    "href": "articles/week2-tryout.html",
+    "title": "Tryout",
+    "section": "",
+    "text": "Try linking tablet and ECG"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Project Portfolio",
     "section": "",
-    "text": "Welcome to my project documentation. Use the tags on the right to filter by week or topic.\n\n\n\n\n\n\n\n\n\nSetting up the Environment\n\n\n\nw1\n\ndev\n\nimplementation\n\n\n\n\n\n\nFeb 16, 2026\n\n1 min\n\n\n\n\nNo matching items"
+    "text": "Welcome to my project documentation. Use the tags on the right to filter by week or topic.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nMar 23, 2026\n\n\nSensors data\n\n\nw2, dev, implementation\n\n\n\n\n\n\nFeb 26, 2026\n\n\nTryout\n\n\nw2, dev\n\n\n\n\n\n\nFeb 18, 2026\n\n\nTask1 - testing sensor\n\n\nw1, docs, schema\n\n\n\n\n\n\nFeb 16, 2026\n\n\nSetting up the Environment\n\n\nw1, dev, implementation\n\n\n\n\n\n\nNo matching items"
   }
 ]

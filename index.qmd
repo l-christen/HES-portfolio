@@ -2,10 +2,10 @@
 title: "Project Portfolio"
 listing:
   contents: articles
-  type: default
+  type: table
   categories: true      # tag list
   sort: "date desc"     # last posted on top
-  fields: [date, title, reading-time, categories] # tags
+  fields: [date, title, categories] # tags
 ---
 
 Welcome to my project documentation. Use the tags on the right to filter by week or topic.

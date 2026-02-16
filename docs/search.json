@@ -7,10 +7,17 @@
     "text": "About this site"
   },
   {
+    "objectID": "articles/week1-setup.html",
+    "href": "articles/week1-setup.html",
+    "title": "Setting up the Environment",
+    "section": "",
+    "text": "Set up"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "HES-portfolio",
+    "title": "Project Portfolio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to my project documentation. Use the tags on the right to filter by week or topic.\n\n\n\n\n\n\n\n\n\nSetting up the Environment\n\n\n\nw1\n\ndev\n\nimplementation\n\n\n\n\n\n\nFeb 16, 2026\n\n1 min\n\n\n\n\nNo matching items"
   }
 ]

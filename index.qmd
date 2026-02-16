@@ -1,7 +1,11 @@
 ---
-title: "HES-portfolio"
+title: "Project Portfolio"
+listing:
+  contents: articles
+  type: default
+  categories: true      # tag list
+  sort: "date desc"     # last posted on top
+  fields: [date, title, reading-time, categories] # tags
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my project documentation. Use the tags on the right to filter by week or topic.

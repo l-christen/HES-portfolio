@@ -1,0 +1,7 @@
+---
+title: "Setting up the Environment"
+date: "2026-02-16"
+categories: [w1, dev, implementation] # add article's tag here
+---
+
+Set up 

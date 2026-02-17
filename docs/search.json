@@ -39,6 +39,27 @@
     "href": "index.html",
     "title": "Project Portfolio",
     "section": "",
-    "text": "Welcome to my project documentation. Use the tags on the right to filter by week or topic.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nMar 23, 2026\n\n\nSensors data\n\n\nw2, dev, implementation\n\n\n\n\n\n\nFeb 26, 2026\n\n\nTryout\n\n\nw2, dev\n\n\n\n\n\n\nFeb 18, 2026\n\n\nTask1 - testing sensor\n\n\nw1, docs, schema\n\n\n\n\n\n\nFeb 16, 2026\n\n\nSetting up the Environment\n\n\nw1, dev, implementation\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my project documentation. Use the tags on the right to filter by week or topic.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nFeb 26, 2026\n\n\nTryout\n\n\nw2, dev\n\n\n\n\n\n\nFeb 17, 2026\n\n\nMeeting with CEO and CTO\n\n\nw1, admin\n\n\n\n\n\n\nFeb 17, 2026\n\n\nMeeting with the whole team for product backlog\n\n\nw1, admin\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "articles/week1-2.html",
+    "href": "articles/week1-2.html",
+    "title": "Meeting with CEO and CTO",
+    "section": "",
+    "text": "Today, we (the whole team) had a meeting with the CEO and CTO of the company. We discussed the team organization and the current project for the next seven weeks. The CEO and CTO were satisfied with the organizational work that had already been done."
+  },
+  {
+    "objectID": "articles/week1-20.html",
+    "href": "articles/week1-20.html",
+    "title": "Meeting with CEO and CTO",
+    "section": "",
+    "text": "Today, we (the whole team) had a meeting with the CEO and CTO of the company. We discussed the team organization and the current project for the next seven weeks. The CEO and CTO were satisfied with the organizational work that had already been done.\nI did not participate that much in the meeting but I was actively listening. I am looking forward to working on the project."
+  },
+  {
+    "objectID": "articles/week1-21.html",
+    "href": "articles/week1-21.html",
+    "title": "Meeting with the whole team for product backlog",
+    "section": "",
+    "text": "We spent half a day defining the mandatory tasks. Long-term planning is currently blocked by the unknown nature of the sensor’s raw data. We also need to wait the first meeting with customers in order to define what could be the added value of the data science work."
   }
 ]

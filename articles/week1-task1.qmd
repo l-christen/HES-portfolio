@@ -1,7 +1,0 @@
----
-title: "Task1 - testing sensor"
-date: "2026-02-18"
-categories: [w1, docs, schema] 
----
-
-test

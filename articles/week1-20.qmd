@@ -1,0 +1,9 @@
+---
+title: "Meeting with CEO and CTO"
+date: "2026-02-17"
+categories: [w1, admin]
+---
+
+Today, we (the whole team) had a meeting with the CEO and CTO of the company. We discussed the team organization and the current project for the next seven weeks. The CEO and CTO were satisfied with the organizational work that had already been [done](https://olivier.amacker.dev/304.2-medical-data-science/src/#team-meeting).
+
+I did not participate that much in the meeting but I was actively listening. I am looking forward to working on the project.

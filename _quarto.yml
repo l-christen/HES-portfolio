@@ -7,10 +7,10 @@ website:
   navbar:
     right:
       - icon: github
-        href: https://github.com/anouillz/HES-portfolio # link to repo
+        href: https://github.com/l-christen/HES-portfolio # link to repo
         aria-label: GitHub
 
-  repo-url: https://github.com/anouillz/HES-portfolio
+  repo-url: https://github.com/l-christen/HES-portfolio
   repo-actions: [issue]
 
 format:

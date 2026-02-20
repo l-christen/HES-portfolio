@@ -39,7 +39,7 @@
     "href": "index.html",
     "title": "Project Portfolio",
     "section": "",
-    "text": "Welcome to my project documentation. Use the tags on the right to filter by week or topic.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\nFeb 26, 2026\n\n\nTryout\n\n\nw2, dev\n\n\n\n\n\n\nFeb 17, 2026\n\n\nMeeting with CEO and CTO\n\n\nw1, admin\n\n\n\n\n\n\nFeb 17, 2026\n\n\nMeeting with the whole team for product backlog\n\n\nw1, admin\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my project documentation. Use the tags on the right to filter by week or topic.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nCategories\n\n\n\n\n\n\n\n\n \n\n\nQuestions\n\n\nquestions\n\n\n\n\n\n\nFeb 20, 2026\n\n\nProject kickoff\n\n\nw1, admin\n\n\n\n\n\n\nFeb 18, 2026\n\n\nTechnical documentation\n\n\nw1, documentation\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "articles/week1-2.html",
@@ -51,9 +51,9 @@
   {
     "objectID": "articles/week1-20.html",
     "href": "articles/week1-20.html",
-    "title": "Meeting with CEO and CTO",
+    "title": "Project kickoff",
     "section": "",
-    "text": "Today, we (the whole team) had a meeting with the CEO and CTO of the company. We discussed the team organization and the current project for the next seven weeks. The CEO and CTO were satisfied with the organizational work that had already been done.\nI did not participate that much in the meeting but I was actively listening. I am looking forward to working on the project."
+    "text": "Project kickoff\nIn this article, we will discuss the kickoff of our project mainly in terms of organization and planning.\n\n\nTeam organization (SCRUM)\nIn the first part of the week, we set up the different teams and defined the roles of each member. I applied for the data science team according to my own preferences. This showed my skill to affirm my preferences and to take initiative. The proof of our kickoff work is there.\n\n\nProduct backlog\nIn the second part of the week, we defined the product backlog. We defined the mandatory tasks with what we knew about the project at that time. I tried to define what were the first steps for the data science team, but it was difficult because at this point we had no contact with the customers and the medical data professional."
   },
   {
     "objectID": "articles/week1-21.html",
@@ -61,5 +61,33 @@
     "title": "Meeting with the whole team for product backlog",
     "section": "",
     "text": "We spent half a day defining the mandatory tasks. Long-term planning is currently blocked by the unknown nature of the sensor’s raw data. We also need to wait the first meeting with customers in order to define what could be the added value of the data science work."
+  },
+  {
+    "objectID": "articles/week1-30.html",
+    "href": "articles/week1-30.html",
+    "title": "Report about the first step into the documentation",
+    "section": "",
+    "text": "I started to learn how the heart works and how the sensors work. I also started to report some information about what I’ve learned. For now, the documentation is not very structured and very incomplete because we need to get more information about the D-Heart device.\nSince the sensing device is a black box, I tried to connect to it without using the official software. I was able to connect to the device and get some data, but I don’t know how to interpret it yet. I think that I am able to get the values for each electrode, but I don’t know which value corresponds to which electrode and I don’t know how much noise removal is provided by the device before sending the data."
+  },
+  {
+    "objectID": "articles/questions.html",
+    "href": "articles/questions.html",
+    "title": "Questions",
+    "section": "",
+    "text": "Week 1\n\nDo you think that the project kickoff went well? What could have been done better?\nDo you think that you have communication skills?\n???"
+  },
+  {
+    "objectID": "articles/week1-0.html",
+    "href": "articles/week1-0.html",
+    "title": "Project kickoff",
+    "section": "",
+    "text": "Project kickoff\nIn this article, we will discuss the kickoff of our project mainly in terms of organization and planning.\n\n\nTeam organization (SCRUM)\nIn the first part of the week, we set up the different teams and defined the roles of each member. I applied for the data science team according to my own preferences. This showed my skill to affirm my preferences and to take initiative. The proof of our kickoff work is there.\n\n\nProduct backlog\nIn the second part of the week, we defined the product backlog. We defined the mandatory tasks with what we knew about the project at that time. I tried to define what were the first steps for the data science team, but it was difficult because at this point we had no contact with the customers and the medical data professional.\n\n\nMeeting with CEO and CTO\nDuring this meeting, I introduced myself to the CEO and CTO. I did not participate much in the discussion because I let the SCRUM master lead the discussion and show the work already done. This showed my ability to stay in the background when it is necessary in order to not create confusion.\n\n\nMeeting with the customers\nThis meeting was very important to understand the needs of the customers. Our product is an application that allow patients to record medical signals at home during their sleep to analyse their sleep quality (apnea, sleep phases, etc.) and their heart health. We noticed that the customers are more interested in the data our app could generate than in the app itself. It helped to know that we need to focus on the data storage and analysis. At this point, I am more aware of the projects requirements but I am impatient to meet the medical data professional.\n\n\nDaily meetings\nWe had daily meetings with the whole team every morning. I invest myself in these meetings by sharing my work and asking questions. I will not talk about it anymore if there is no specific point to highlight, since it is a daily routine."
+  },
+  {
+    "objectID": "articles/week1-1.html",
+    "href": "articles/week1-1.html",
+    "title": "Technical documentation",
+    "section": "",
+    "text": "Heart and sensor documentation\nI started to learn how the heart works and how the sensors work. I also started to report some information about what I’ve learned. For now, the documentation is not very structured and very incomplete because we need to get more information about the D-Heart device. For now, I am waiting for the sensor team to continue the documentation about the D-Heart device.\nAt this point, I need to write a section about the ECG signal and how to interpret it because I am convinced that understanding the data you are working with is crucial to be able to work with it.\n\n\nAttempt to get data from the D-Heart device without the official software\nSince the sensing device is(was) a black box, I tried to connect to it without using the official software. I was able to connect to the device and get some data, but I don’t know how to interpret it yet. I think that I am able to get the values for each electrode, but I don’t know which value corresponds to which electrode and I don’t know how much noise removal is provided by the device before sending the data. This has to be figured out by the sensor team as soon as they get documentation from the manufacturer.\n\n\nECG Data and machine learning\nI started read papers about ECG data and machine learning. I am trying to see what is feasible with the kind of data we have knowing that we have only 8 leads and the data processing has to be done on device. I have started reporting what I have learned. I think that the interest in others papers is good for our project but I am not sure if it is relevant to report it in the documentation because it is not directly related to our project. I will maybe not continue this report, keep interesting myself in the papers about ECG processing and machine learning but not report it and start making my own experiments with the data I could find there for example. I need to discuss this with my data science team and the SCRUM master to see if it is relevant."
   }
 ]

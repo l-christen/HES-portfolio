@@ -1,7 +1,0 @@
----
-title: "Tryout"
-date: "2026-02-26"
-categories: [w2, dev] # add article's tag here
----
-
-Try linking tablet and ECG

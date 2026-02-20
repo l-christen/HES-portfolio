@@ -8,13 +8,13 @@ categories: [w1, admin]
 In this article, we will discuss the kickoff of our project mainly in terms of organization and planning.
 
 # Team organization (SCRUM)
-In the first part of the week, we set up the different teams and defined the roles of each member. I applied for the data science team according to my own preferences. This showed my skill to affirm my preferences and to take initiative. The proof of our kickoff work is [there](https://olivier.amacker.dev/304.2-medical-data-science/src/index.html).
+In the first part of the week, we set up the different teams and defined the roles of each member. I applied for the data science team according to my own preferences. This showed my skill to affirm my preferences and to take initiative. The proof of our kickoff work is [there](https://olivier.amacker.dev/304.2-medical-data-science/).
 
 # Product backlog
 In the second part of the week, we defined the [product backlog](./artifacts/product_backlog.png). We defined the mandatory tasks with what we knew about the project at that time. I tried to define what were the first steps for the data science team, but it was difficult because at this point we had no contact with the customers and the medical data professional.
 
 # Meeting with CEO and CTO
-During this meeting, I introduced myself to the CEO and CTO. I did not participate much in the discussion because I let the SCRUM master lead the discussion and show the work already done. This showed my ability to stay in the background when it is necessary in order to not create confusion.
+During this meeting, I introduced myself to the CEO and CTO. I did not participate much in the discussion because I let the SCRUM master lead the discussion and show the work already done.
 
 # Meeting with the customers
 This meeting was very important to understand the needs of the customers. Our product is an application that allow patients to record medical signals at home during their sleep to analyse their sleep quality (apnea, sleep phases, etc.) and their heart health. We noticed that the customers are more interested in the data our app could generate than in the app itself. It helped to know that we need to focus on the data storage and analysis. At this point, I am more aware of the projects requirements but I am impatient to meet the medical data professional.

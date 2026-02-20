@@ -1,0 +1,15 @@
+---
+title: "Technical documentation"
+date: "2026-02-18"
+categories: [w1, documentation]
+---
+# Heart and sensor documentation
+I started to learn how the heart works and how the sensors work. I also started to [report](https://typst.app/project/rZSoBsxsNQaPL6hanXpHDw) some information about what I've learned. For now, the documentation is not very structured and very incomplete because we need to get more information about the D-Heart device. For now, I am waiting for the sensor team to continue the documentation about the D-Heart device.
+
+At this point, I need to write a section about the ECG signal and how to interpret it because I am convinced that understanding the data you are working with is crucial to be able to work with it.
+
+# Attempt to get data from the D-Heart device without the official software
+Since the sensing device is(was) a black box, I tried to connect to it without using the official software. I was able to connect to the device and get some data, but I don't know how to interpret it yet. I think that I am able to get the [values for each electrode](./artifacts/ecg_data.txt), but I don't know which value corresponds to which electrode and I don't know how much noise removal is provided by the device before sending the data. This has to be figured out by the sensor team as soon as they get documentation from the manufacturer.
+
+# ECG Data and machine learning
+I started read papers about ECG data and machine learning. I am trying to see what is feasible with the kind of data we have knowing that we have only 8 leads and the data processing has to be done on device. I have started [reporting](https://typst.app/project/rKKz4huJBNzn6wXNN7aGr2) what I have learned. I think that the interest in others papers is good for our project but I am not sure if it is relevant to report it in the documentation because it is not directly related to our project. I will maybe not continue this report, keep interesting myself in the papers about ECG processing and machine learning but not report it and start making my own experiments with the data I could find [there](https://physionet.org/) for example. I need to discuss this with my data science team and the SCRUM master to see if it is relevant.

@@ -1,0 +1,10 @@
+---
+title: "Questions"
+date: ""
+categories: [questions]
+---
+
+# Week 1
+1. Do you think that the project kickoff went well? What could have been done better?
+2. Do you think that you have communication skills?
+3. ???
